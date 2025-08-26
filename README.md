@@ -19,10 +19,9 @@ sql_50/
 ```
 
 Each file contains:
-- Problem title and difficulty level
+- Problem title 
 - Complete problem statement
 - My SQL solution
-- Comments explaining the approach (where applicable)
 
 ## 📈 Progress
 🔄 **Status:** Actively solving and updating
