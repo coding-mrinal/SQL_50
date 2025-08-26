@@ -1,4 +1,4 @@
-Problem:
+/*Problem:
 
 Write a solution to find all the authors that viewed at least one of their own articles.
 
@@ -33,6 +33,8 @@ Output:
 
 
 Solution:
+*/
+
 
 
 SELECT DISTINCT author_id as id

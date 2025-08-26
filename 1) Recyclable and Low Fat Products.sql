@@ -1,4 +1,4 @@
-Problem:
+/*Problem:
 
 Write a solution to find the ids of products that are both low fat and recyclable.
 
@@ -33,5 +33,7 @@ Explanation: Only products 1 and 3 are both low fat and recyclable.
 
 
 Solution:
+*/
+
 
 SELECT product_id FROM Products WHERE low_fats = 'Y' AND recyclable = 'Y';

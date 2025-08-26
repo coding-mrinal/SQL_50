@@ -1,4 +1,4 @@
-Problem:
+/*Problem:
 
 A country is big if:
 
@@ -35,6 +35,8 @@ Output:
 
 
 Solution:
+*/
+
 
 select name,population,area 
 from World 

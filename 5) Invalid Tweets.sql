@@ -1,4 +1,4 @@
-Problem:
+/*Problem:
 
 
 Write a solution to find the IDs of the invalid tweets. The tweet is invalid if the number of characters used in the content of the tweet is strictly greater than 15.
@@ -32,6 +32,8 @@ Tweet 2 has length = 33. It is an invalid tweet.
 
 
 Solution:
+*/
+
 
 
 SELECT tweet_id
